@@ -1,0 +1,14 @@
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\obj\Debug\net8.0\Data_Type_Casting_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\obj\Debug\net8.0\Data_Type_Casting_1.AssemblyInfoInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\obj\Debug\net8.0\Data_Type_Casting_1.AssemblyInfo.cs
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\obj\Debug\net8.0\Data_Type_Casting_1.csproj.CoreCompileInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\bin\Debug\net8.0\Data_Type_Casting_1.exe
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\bin\Debug\net8.0\Data_Type_Casting_1.deps.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\bin\Debug\net8.0\Data_Type_Casting_1.runtimeconfig.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\bin\Debug\net8.0\Data_Type_Casting_1.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\bin\Debug\net8.0\Data_Type_Casting_1.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\obj\Debug\net8.0\Data_Type_Casting_1.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\obj\Debug\net8.0\refint\Data_Type_Casting_1.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\obj\Debug\net8.0\Data_Type_Casting_1.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\obj\Debug\net8.0\Data_Type_Casting_1.genruntimeconfig.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Data_Type_Casting_1\obj\Debug\net8.0\ref\Data_Type_Casting_1.dll

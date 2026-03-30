@@ -1,0 +1,14 @@
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\bin\Debug\net8.0\Clear_Resize.exe
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\bin\Debug\net8.0\Clear_Resize.deps.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\bin\Debug\net8.0\Clear_Resize.runtimeconfig.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\bin\Debug\net8.0\Clear_Resize.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\bin\Debug\net8.0\Clear_Resize.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\obj\Debug\net8.0\Clear_Resize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\obj\Debug\net8.0\Clear_Resize.AssemblyInfoInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\obj\Debug\net8.0\Clear_Resize.AssemblyInfo.cs
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\obj\Debug\net8.0\Clear_Resize.csproj.CoreCompileInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\obj\Debug\net8.0\Clear_Resize.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\obj\Debug\net8.0\refint\Clear_Resize.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\obj\Debug\net8.0\Clear_Resize.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\obj\Debug\net8.0\Clear_Resize.genruntimeconfig.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Clear_Resize\obj\Debug\net8.0\ref\Clear_Resize.dll

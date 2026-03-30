@@ -1,0 +1,14 @@
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\bin\Debug\net8.0\Boolean_Expressions.exe
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\bin\Debug\net8.0\Boolean_Expressions.deps.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\bin\Debug\net8.0\Boolean_Expressions.runtimeconfig.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\bin\Debug\net8.0\Boolean_Expressions.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\bin\Debug\net8.0\Boolean_Expressions.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\obj\Debug\net8.0\Boolean_Expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\obj\Debug\net8.0\Boolean_Expressions.AssemblyInfoInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\obj\Debug\net8.0\Boolean_Expressions.AssemblyInfo.cs
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\obj\Debug\net8.0\Boolean_Expressions.csproj.CoreCompileInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\obj\Debug\net8.0\Boolean_Expressions.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\obj\Debug\net8.0\refint\Boolean_Expressions.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\obj\Debug\net8.0\Boolean_Expressions.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\obj\Debug\net8.0\Boolean_Expressions.genruntimeconfig.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Boolean_Expressions\obj\Debug\net8.0\ref\Boolean_Expressions.dll
