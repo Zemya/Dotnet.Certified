@@ -1,0 +1,14 @@
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\bin\Debug\net8.0\Do_While_2.exe
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\bin\Debug\net8.0\Do_While_2.deps.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\bin\Debug\net8.0\Do_While_2.runtimeconfig.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\bin\Debug\net8.0\Do_While_2.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\bin\Debug\net8.0\Do_While_2.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\obj\Debug\net8.0\Do_While_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\obj\Debug\net8.0\Do_While_2.AssemblyInfoInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\obj\Debug\net8.0\Do_While_2.AssemblyInfo.cs
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\obj\Debug\net8.0\Do_While_2.csproj.CoreCompileInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\obj\Debug\net8.0\Do_While_2.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\obj\Debug\net8.0\refint\Do_While_2.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\obj\Debug\net8.0\Do_While_2.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\obj\Debug\net8.0\Do_While_2.genruntimeconfig.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Do_While_2\obj\Debug\net8.0\ref\Do_While_2.dll
