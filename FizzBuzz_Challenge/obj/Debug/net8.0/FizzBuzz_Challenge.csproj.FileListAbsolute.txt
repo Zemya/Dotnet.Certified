@@ -1,0 +1,14 @@
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\bin\Debug\net8.0\FizzBuzz_Challenge.exe
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\bin\Debug\net8.0\FizzBuzz_Challenge.deps.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\bin\Debug\net8.0\FizzBuzz_Challenge.runtimeconfig.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\bin\Debug\net8.0\FizzBuzz_Challenge.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\bin\Debug\net8.0\FizzBuzz_Challenge.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\obj\Debug\net8.0\FizzBuzz_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\obj\Debug\net8.0\FizzBuzz_Challenge.AssemblyInfoInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\obj\Debug\net8.0\FizzBuzz_Challenge.AssemblyInfo.cs
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\obj\Debug\net8.0\FizzBuzz_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\obj\Debug\net8.0\FizzBuzz_Challenge.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\obj\Debug\net8.0\refint\FizzBuzz_Challenge.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\obj\Debug\net8.0\FizzBuzz_Challenge.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\obj\Debug\net8.0\FizzBuzz_Challenge.genruntimeconfig.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\FizzBuzz_Challenge\obj\Debug\net8.0\ref\FizzBuzz_Challenge.dll
