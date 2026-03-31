@@ -1,0 +1,14 @@
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\bin\Debug\net8.0\Project_3.exe
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\bin\Debug\net8.0\Project_3.deps.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\bin\Debug\net8.0\Project_3.runtimeconfig.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\bin\Debug\net8.0\Project_3.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\bin\Debug\net8.0\Project_3.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\obj\Debug\net8.0\Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\obj\Debug\net8.0\Project_3.AssemblyInfoInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\obj\Debug\net8.0\Project_3.AssemblyInfo.cs
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\obj\Debug\net8.0\Project_3.csproj.CoreCompileInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\obj\Debug\net8.0\Project_3.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\obj\Debug\net8.0\refint\Project_3.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\obj\Debug\net8.0\Project_3.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\obj\Debug\net8.0\Project_3.genruntimeconfig.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Project_3\obj\Debug\net8.0\ref\Project_3.dll
