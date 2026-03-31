@@ -1,0 +1,14 @@
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\bin\Debug\net8.0\Variable_Scope_Challenge.exe
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\bin\Debug\net8.0\Variable_Scope_Challenge.deps.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\bin\Debug\net8.0\Variable_Scope_Challenge.runtimeconfig.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\bin\Debug\net8.0\Variable_Scope_Challenge.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\bin\Debug\net8.0\Variable_Scope_Challenge.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\obj\Debug\net8.0\Variable_Scope_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\obj\Debug\net8.0\Variable_Scope_Challenge.AssemblyInfoInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\obj\Debug\net8.0\Variable_Scope_Challenge.AssemblyInfo.cs
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\obj\Debug\net8.0\Variable_Scope_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\obj\Debug\net8.0\Variable_Scope_Challenge.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\obj\Debug\net8.0\refint\Variable_Scope_Challenge.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\obj\Debug\net8.0\Variable_Scope_Challenge.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\obj\Debug\net8.0\Variable_Scope_Challenge.genruntimeconfig.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Variable_Scope_Challenge\obj\Debug\net8.0\ref\Variable_Scope_Challenge.dll
