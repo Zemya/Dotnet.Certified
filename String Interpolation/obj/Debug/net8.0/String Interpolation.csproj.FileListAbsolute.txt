@@ -1,0 +1,14 @@
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\bin\Debug\net8.0\String Interpolation.exe
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\bin\Debug\net8.0\String Interpolation.deps.json
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\bin\Debug\net8.0\String Interpolation.runtimeconfig.json
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\bin\Debug\net8.0\String Interpolation.dll
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\bin\Debug\net8.0\String Interpolation.pdb
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\obj\Debug\net8.0\String Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\obj\Debug\net8.0\String Interpolation.AssemblyInfoInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\obj\Debug\net8.0\String Interpolation.AssemblyInfo.cs
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\obj\Debug\net8.0\String Interpolation.csproj.CoreCompileInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\obj\Debug\net8.0\String Interpolation.dll
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\obj\Debug\net8.0\refint\String Interpolation.dll
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\obj\Debug\net8.0\String Interpolation.pdb
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\obj\Debug\net8.0\String Interpolation.genruntimeconfig.cache
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String Interpolation\obj\Debug\net8.0\ref\String Interpolation.dll

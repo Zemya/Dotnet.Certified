@@ -1,0 +1,14 @@
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\bin\Debug\net8.0\Split_Join.exe
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\bin\Debug\net8.0\Split_Join.deps.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\bin\Debug\net8.0\Split_Join.runtimeconfig.json
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\bin\Debug\net8.0\Split_Join.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\bin\Debug\net8.0\Split_Join.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\obj\Debug\net8.0\Split_Join.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\obj\Debug\net8.0\Split_Join.AssemblyInfoInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\obj\Debug\net8.0\Split_Join.AssemblyInfo.cs
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\obj\Debug\net8.0\Split_Join.csproj.CoreCompileInputs.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\obj\Debug\net8.0\Split_Join.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\obj\Debug\net8.0\refint\Split_Join.dll
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\obj\Debug\net8.0\Split_Join.pdb
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\obj\Debug\net8.0\Split_Join.genruntimeconfig.cache
+C:\Users\chill\VS_Workspace\C#\MicrosoftLearn\Split_Join\obj\Debug\net8.0\ref\Split_Join.dll

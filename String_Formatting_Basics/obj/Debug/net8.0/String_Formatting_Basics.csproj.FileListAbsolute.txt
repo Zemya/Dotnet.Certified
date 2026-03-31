@@ -1,0 +1,14 @@
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\bin\Debug\net8.0\String_Formatting_Basics.exe
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\bin\Debug\net8.0\String_Formatting_Basics.deps.json
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\bin\Debug\net8.0\String_Formatting_Basics.runtimeconfig.json
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\bin\Debug\net8.0\String_Formatting_Basics.dll
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\bin\Debug\net8.0\String_Formatting_Basics.pdb
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\obj\Debug\net8.0\String_Formatting_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\obj\Debug\net8.0\String_Formatting_Basics.AssemblyInfoInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\obj\Debug\net8.0\String_Formatting_Basics.AssemblyInfo.cs
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\obj\Debug\net8.0\String_Formatting_Basics.csproj.CoreCompileInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\obj\Debug\net8.0\String_Formatting_Basics.dll
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\obj\Debug\net8.0\refint\String_Formatting_Basics.dll
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\obj\Debug\net8.0\String_Formatting_Basics.pdb
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\obj\Debug\net8.0\String_Formatting_Basics.genruntimeconfig.cache
+C:\Users\chill\Visual_Studio_Code\C#\MicrosoftLearn\String_Formatting_Basics\obj\Debug\net8.0\ref\String_Formatting_Basics.dll
