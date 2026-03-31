@@ -1,0 +1,14 @@
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\bin\Debug\net8.0\Padding at Work.exe
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\bin\Debug\net8.0\Padding at Work.deps.json
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\bin\Debug\net8.0\Padding at Work.runtimeconfig.json
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\bin\Debug\net8.0\Padding at Work.dll
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\bin\Debug\net8.0\Padding at Work.pdb
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\obj\Debug\net8.0\Padding at Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\obj\Debug\net8.0\Padding at Work.AssemblyInfoInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\obj\Debug\net8.0\Padding at Work.AssemblyInfo.cs
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\obj\Debug\net8.0\Padding at Work.csproj.CoreCompileInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\obj\Debug\net8.0\Padding at Work.dll
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\obj\Debug\net8.0\refint\Padding at Work.dll
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\obj\Debug\net8.0\Padding at Work.pdb
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\obj\Debug\net8.0\Padding at Work.genruntimeconfig.cache
+C:\Users\chill\Visual_Studio_Code\C#\Padding at Work\obj\Debug\net8.0\ref\Padding at Work.dll

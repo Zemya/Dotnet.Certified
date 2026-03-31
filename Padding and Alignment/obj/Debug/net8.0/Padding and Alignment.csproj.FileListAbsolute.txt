@@ -1,0 +1,14 @@
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\bin\Debug\net8.0\Padding and Alignment.exe
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\bin\Debug\net8.0\Padding and Alignment.deps.json
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\bin\Debug\net8.0\Padding and Alignment.runtimeconfig.json
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\bin\Debug\net8.0\Padding and Alignment.dll
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\bin\Debug\net8.0\Padding and Alignment.pdb
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\obj\Debug\net8.0\Padding and Alignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\obj\Debug\net8.0\Padding and Alignment.AssemblyInfoInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\obj\Debug\net8.0\Padding and Alignment.AssemblyInfo.cs
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\obj\Debug\net8.0\Padding and Alignment.csproj.CoreCompileInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\obj\Debug\net8.0\Padding and Alignment.dll
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\obj\Debug\net8.0\refint\Padding and Alignment.dll
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\obj\Debug\net8.0\Padding and Alignment.pdb
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\obj\Debug\net8.0\Padding and Alignment.genruntimeconfig.cache
+C:\Users\chill\Visual_Studio_Code\C#\Padding and Alignment\obj\Debug\net8.0\ref\Padding and Alignment.dll

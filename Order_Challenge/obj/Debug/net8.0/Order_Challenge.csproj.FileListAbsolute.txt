@@ -1,0 +1,14 @@
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\bin\Debug\net8.0\Order_Challenge.exe
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\bin\Debug\net8.0\Order_Challenge.deps.json
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\bin\Debug\net8.0\Order_Challenge.runtimeconfig.json
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\bin\Debug\net8.0\Order_Challenge.dll
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\bin\Debug\net8.0\Order_Challenge.pdb
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\obj\Debug\net8.0\Order_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\obj\Debug\net8.0\Order_Challenge.AssemblyInfoInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\obj\Debug\net8.0\Order_Challenge.AssemblyInfo.cs
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\obj\Debug\net8.0\Order_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\obj\Debug\net8.0\Order_Challenge.dll
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\obj\Debug\net8.0\refint\Order_Challenge.dll
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\obj\Debug\net8.0\Order_Challenge.pdb
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\obj\Debug\net8.0\Order_Challenge.genruntimeconfig.cache
+C:\Users\chill\Visual_Studio_Code\C#\Order_Challenge\obj\Debug\net8.0\ref\Order_Challenge.dll
